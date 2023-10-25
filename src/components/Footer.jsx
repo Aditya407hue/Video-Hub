@@ -1,5 +1,4 @@
 import { Box, Button, HStack, Heading, Input, Stack, Text, VStack } from '@chakra-ui/react'
-import React from 'react'
 import {AiOutlineSend} from 'react-icons/ai'
 
 const Footer = () => {

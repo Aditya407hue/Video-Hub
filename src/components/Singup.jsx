@@ -1,5 +1,4 @@
 import { Avatar, Button, Container, Heading, Input, Text, VStack } from '@chakra-ui/react'
-import React from 'react'
 import { Link } from 'react-router-dom'
 
 const Singup = () => {
